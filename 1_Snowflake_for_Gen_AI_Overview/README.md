@@ -15,6 +15,8 @@ This domain introduces Snowflake Cortex, the platform's AI and ML capabilities, 
 
 ### **Foundation Topics**
 - [1.1 Snowflake Cortex Overview](./1.1_Snowflake_Cortex_Overview.md)
+- [1.2 Snowflake Cortex AI Features](./1.2_Snowflake_Cortex_AI_Features.md)
+- [1.3 Vector Data Types & Operations](./1.3_Vector_Data_Types_Operations.md)
 
 ### **Additional Topics**
 *Additional domain topics will be added as the study guide expands*

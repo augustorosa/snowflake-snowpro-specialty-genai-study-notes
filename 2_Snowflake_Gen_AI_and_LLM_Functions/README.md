@@ -13,6 +13,7 @@ This domain covers the comprehensive set of Cortex LLM functions, custom model i
 
 ### **Core LLM Functions**
 - [2.1 Cortex LLM Functions Overview](./2.1_Cortex_LLM_Functions.md)
+- [2.2 Cortex LLM Complete Functions](./2.2_Cortex_LLM_Complete_Functions.md)
 
 ### **Additional Topics**
 *Additional domain topics will be added as the study guide expands*

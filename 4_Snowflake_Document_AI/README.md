@@ -12,7 +12,10 @@ This domain covers Snowflake's Document AI services that enable organizations to
 ## 📚 Table of Contents
 
 ### **Foundation Topics**
-*Domain topics will be added as the study guide expands*
+- [4.1 Document AI Overview](./4.1_Document_AI_Overview.md)
+
+### **Additional Topics**
+*Additional domain topics will be added as the study guide expands*
 
 ## 🚀 Key Learning Objectives
 

@@ -15,18 +15,9 @@ This domain introduces Snowflake Cortex, the platform's AI and ML capabilities, 
 
 ### **Foundation Topics**
 - [1.1 Snowflake Cortex Overview](./1.1_Snowflake_Cortex_Overview.md)
-- [1.2 Gen AI Ecosystem Integration](./1.2_Gen_AI_Ecosystem_Integration.md)
-- [1.3 Vector Databases and Embeddings](./1.3_Vector_Databases_Embeddings.md)
-- [1.4 RAG Architecture Patterns](./1.4_RAG_Architecture_Patterns.md)
-- [1.5 Snowflake Native AI/ML Services](./1.5_Snowflake_Native_AI_ML_Services.md)
-- [1.6 Data Preparation for Gen AI](./1.6_Data_Preparation_Gen_AI.md)
-- [1.7 Performance Optimization for AI Workloads](./1.7_Performance_Optimization_AI_Workloads.md)
-- [1.8 Cost Management for Gen AI](./1.8_Cost_Management_Gen_AI.md)
 
-### **Advanced Topics**
-- [1.9 Hybrid and Multi-Cloud AI Architectures](./1.9_Hybrid_Multi_Cloud_AI.md)
-- [1.10 Real-time AI Applications](./1.10_Real_Time_AI_Applications.md)
-- [1.11 AI Model Lifecycle Management](./1.11_AI_Model_Lifecycle_Management.md)
+### **Additional Topics**
+*Additional domain topics will be added as the study guide expands*
 
 ## 🚀 Key Learning Objectives
 
@@ -99,23 +90,10 @@ This domain introduces Snowflake Cortex, the platform's AI and ML capabilities, 
 
 ## 📊 Study Resources
 
-### **Hands-On Labs**
-- [Lab 1: Cortex Functions Deep Dive](./labs/lab01_cortex_functions.md)
-- [Lab 2: Building Your First RAG Application](./labs/lab02_rag_application.md)
-- [Lab 3: Vector Operations and Similarity Search](./labs/lab03_vector_operations.md)
-- [Lab 4: AI Model Integration](./labs/lab04_model_integration.md)
-
-### **Practice Questions**
-- [Cortex Platform Questions](./practice/cortex_questions.md)
-- [Vector and Embedding Questions](./practice/vector_questions.md)
-- [RAG Architecture Questions](./practice/rag_questions.md)
-- [Integration Pattern Questions](./practice/integration_questions.md)
-
-### **Quick Reference**
-- [Cortex Functions Reference](./quick_reference/cortex_functions.md)
-- [Vector Operations Cheat Sheet](./quick_reference/vector_operations.md)
-- [RAG Implementation Patterns](./quick_reference/rag_patterns.md)
-- [Performance Tuning Guide](./quick_reference/performance_tuning.md)
+### **Study Resources**
+- [Snowflake Cortex Overview](./1.1_Snowflake_Cortex_Overview.md) - Comprehensive guide to Cortex functions and capabilities
+- [Practice Questions](../exam_prep/Practice_Questions.md) - Domain-specific practice questions
+- [Exam Strategy Guide](../exam_prep/Exam_Strategy.md) - Test-taking strategies and tips
 
 ## 🔍 Common Exam Pitfalls
 

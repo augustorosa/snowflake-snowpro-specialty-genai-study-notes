@@ -12,20 +12,7 @@ This domain addresses the governance framework needed for enterprise Gen AI depl
 ## 📚 Table of Contents
 
 ### **Foundation Topics**
-- [3.1 AI Model Governance Framework](./3.1_AI_Model_Governance.md)
-- [3.2 Data Privacy in Gen AI](./3.2_Data_Privacy_Gen_AI.md)
-- [3.3 Bias Detection and Mitigation](./3.3_Bias_Detection_Mitigation.md)
-- [3.4 Compliance and Regulatory Requirements](./3.4_Compliance_Auditing.md)
-- [3.5 AI Security and Access Control](./3.5_AI_Security_Access_Control.md)
-- [3.6 Model Monitoring and Observability](./3.6_Model_Monitoring_Observability.md)
-
-### **Advanced Governance Topics**
-- [3.7 Responsible AI Practices](./3.7_Responsible_AI_Practices.md)
-- [3.8 AI Risk Management](./3.8_AI_Risk_Management.md)
-- [3.9 Model Lifecycle Governance](./3.9_Model_Lifecycle_Governance.md)
-- [3.10 Cross-Border Data and AI Compliance](./3.10_Cross_Border_Compliance.md)
-- [3.11 AI Audit and Documentation](./3.11_AI_Audit_Documentation.md)
-- [3.12 Third-Party AI Service Governance](./3.12_Third_Party_AI_Governance.md)
+*Domain topics will be added as the study guide expands*
 
 ## 🚀 Key Learning Objectives
 
@@ -100,29 +87,9 @@ This domain addresses the governance framework needed for enterprise Gen AI depl
 
 ## 📊 Study Resources
 
-### **Governance Frameworks**
-- [AI Governance Best Practices](./frameworks/ai_governance_best_practices.md)
-- [Model Lifecycle Management](./frameworks/model_lifecycle_management.md)
-- [Risk Assessment Templates](./frameworks/risk_assessment_templates.md)
-- [Compliance Checklists](./frameworks/compliance_checklists.md)
-
-### **Hands-On Labs**
-- [Lab 1: Setting Up AI Governance](./labs/lab01_ai_governance_setup.md)
-- [Lab 2: Implementing Data Privacy Controls](./labs/lab02_data_privacy.md)
-- [Lab 3: Bias Detection and Testing](./labs/lab03_bias_detection.md)
-- [Lab 4: Compliance Monitoring](./labs/lab04_compliance_monitoring.md)
-
-### **Practice Questions**
-- [Governance Framework Questions](./practice/governance_questions.md)
-- [Privacy and Security Questions](./practice/privacy_security_questions.md)
-- [Bias and Fairness Questions](./practice/bias_fairness_questions.md)
-- [Compliance Questions](./practice/compliance_questions.md)
-
-### **Quick Reference**
-- [Governance Checklist](./quick_reference/governance_checklist.md)
-- [Privacy Controls Guide](./quick_reference/privacy_controls.md)
-- [Bias Metrics Reference](./quick_reference/bias_metrics.md)
-- [Compliance Requirements](./quick_reference/compliance_requirements.md)
+### **Study Resources**
+- [Practice Questions](../exam_prep/Practice_Questions.md) - Domain-specific practice questions
+- [Exam Strategy Guide](../exam_prep/Exam_Strategy.md) - Test-taking strategies and tips
 
 ## 🔍 Common Exam Pitfalls
 

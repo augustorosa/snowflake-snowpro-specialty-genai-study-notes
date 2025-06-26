@@ -13,27 +13,9 @@ This domain covers the comprehensive set of Cortex LLM functions, custom model i
 
 ### **Core LLM Functions**
 - [2.1 Cortex LLM Functions Overview](./2.1_Cortex_LLM_Functions.md)
-- [2.2 Text Generation Functions](./2.2_Text_Generation_Functions.md)
-- [2.3 Text Analysis Functions](./2.3_Text_Analysis_Functions.md)
-- [2.4 Embedding Functions](./2.4_Embedding_Functions.md)
-- [2.5 Classification Functions](./2.5_Classification_Functions.md)
-- [2.6 Summarization Functions](./2.6_Summarization_Functions.md)
-- [2.7 Translation Functions](./2.7_Translation_Functions.md)
-- [2.8 Question Answering Functions](./2.8_Question_Answering_Functions.md)
 
-### **Advanced Implementation**
-- [2.9 Custom Model Integration](./2.9_Custom_Model_Integration.md)
-- [2.10 Model Fine-tuning and Training](./2.10_Model_Fine_Tuning.md)
-- [2.11 Prompt Engineering Best Practices](./2.11_Prompt_Engineering.md)
-- [2.12 Function Chaining and Orchestration](./2.12_Function_Chaining.md)
-- [2.13 Batch Processing with LLM Functions](./2.13_Batch_Processing_LLM.md)
-- [2.14 Real-time LLM Applications](./2.14_Real_Time_LLM_Applications.md)
-
-### **Optimization and Monitoring**
-- [2.15 Performance Optimization](./2.15_Performance_Optimization.md)
-- [2.16 Cost Management](./2.16_Cost_Management.md)
-- [2.17 Error Handling and Troubleshooting](./2.17_Error_Handling.md)
-- [2.18 Monitoring and Observability](./2.18_Monitoring_Observability.md)
+### **Additional Topics**
+*Additional domain topics will be added as the study guide expands*
 
 ## 🚀 Key Learning Objectives
 
@@ -108,29 +90,10 @@ This domain covers the comprehensive set of Cortex LLM functions, custom model i
 
 ## 📊 Study Resources
 
-### **Function Reference Guides**
-- [Complete Cortex Function Reference](./reference/cortex_function_reference.md)
-- [Function Parameter Guide](./reference/function_parameters.md)
-- [Error Codes and Troubleshooting](./reference/error_codes.md)
-- [Performance Benchmarks](./reference/performance_benchmarks.md)
-
-### **Hands-On Labs**
-- [Lab 1: Cortex Function Exploration](./labs/lab01_function_exploration.md)
-- [Lab 2: Prompt Engineering Workshop](./labs/lab02_prompt_engineering.md)
-- [Lab 3: Custom Model Integration](./labs/lab03_custom_models.md)
-- [Lab 4: Production LLM Pipeline](./labs/lab04_production_pipeline.md)
-
-### **Practice Questions**
-- [Function Syntax Questions](./practice/function_syntax_questions.md)
-- [Prompt Engineering Questions](./practice/prompt_engineering_questions.md)
-- [Implementation Pattern Questions](./practice/implementation_questions.md)
-- [Optimization Questions](./practice/optimization_questions.md)
-
-### **Quick Reference**
-- [Function Syntax Cheat Sheet](./quick_reference/function_syntax.md)
-- [Prompt Templates Library](./quick_reference/prompt_templates.md)
-- [Common Use Cases](./quick_reference/use_cases.md)
-- [Troubleshooting Guide](./quick_reference/troubleshooting.md)
+### **Study Resources**
+- [Cortex LLM Functions Overview](./2.1_Cortex_LLM_Functions.md) - Comprehensive guide to all Cortex LLM functions
+- [Practice Questions](../exam_prep/Practice_Questions.md) - Domain-specific practice questions
+- [Exam Strategy Guide](../exam_prep/Exam_Strategy.md) - Test-taking strategies and tips
 
 ## 🔍 Common Exam Pitfalls
 

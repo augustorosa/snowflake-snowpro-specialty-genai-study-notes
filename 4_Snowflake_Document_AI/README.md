@@ -12,18 +12,7 @@ This domain covers Snowflake's Document AI services that enable organizations to
 ## 📚 Table of Contents
 
 ### **Foundation Topics**
-- [4.1 Document AI Overview](./4.1_Document_AI_Overview.md)
-- [4.2 Document Classification](./4.2_Document_Classification.md)
-- [4.3 Text Extraction and Analysis](./4.3_Text_Extraction_Analysis.md)
-- [4.4 OCR and Image Processing](./4.4_OCR_Image_Processing.md)
-- [4.5 Document Parsing and Structure](./4.5_Document_Parsing_Structure.md)
-- [4.6 Multi-Modal Document Processing](./4.6_Multi_Modal_Processing.md)
-
-### **Advanced Document AI**
-- [4.7 Custom Document Models](./4.7_Custom_Document_Models.md)
-- [4.8 Document Workflow Automation](./4.8_Document_Workflow_Automation.md)
-- [4.9 Document Quality and Validation](./4.9_Document_Quality_Validation.md)
-- [4.10 Integration with External Document Systems](./4.10_External_Document_Integration.md)
+*Domain topics will be added as the study guide expands*
 
 ## 🚀 Key Learning Objectives
 
@@ -98,29 +87,9 @@ This domain covers Snowflake's Document AI services that enable organizations to
 
 ## 📊 Study Resources
 
-### **Document AI Guides**
-- [Document AI Function Reference](./reference/document_ai_functions.md)
-- [Supported Document Formats](./reference/supported_formats.md)
-- [OCR Best Practices](./reference/ocr_best_practices.md)
-- [Performance Optimization Guide](./reference/performance_optimization.md)
-
-### **Hands-On Labs**
-- [Lab 1: Document Classification Setup](./labs/lab01_document_classification.md)
-- [Lab 2: Text Extraction and OCR](./labs/lab02_text_extraction_ocr.md)
-- [Lab 3: Building Document Workflows](./labs/lab03_document_workflows.md)
-- [Lab 4: Multi-Modal Document Processing](./labs/lab04_multimodal_processing.md)
-
-### **Practice Questions**
-- [Document Classification Questions](./practice/classification_questions.md)
-- [Text Extraction Questions](./practice/extraction_questions.md)
-- [OCR and Image Processing Questions](./practice/ocr_questions.md)
-- [Workflow Automation Questions](./practice/workflow_questions.md)
-
-### **Quick Reference**
-- [Document AI Functions Cheat Sheet](./quick_reference/document_ai_functions.md)
-- [File Format Support Matrix](./quick_reference/format_support.md)
-- [Common Use Cases](./quick_reference/use_cases.md)
-- [Troubleshooting Guide](./quick_reference/troubleshooting.md)
+### **Study Resources**
+- [Practice Questions](../exam_prep/Practice_Questions.md) - Domain-specific practice questions
+- [Exam Strategy Guide](../exam_prep/Exam_Strategy.md) - Test-taking strategies and tips
 
 ## 🔍 Common Exam Pitfalls
 

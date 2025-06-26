@@ -76,7 +76,7 @@ This study guide covers both **current exam content** and **preview features**:
 *   [Snowflake Cortex Documentation](https://docs.snowflake.com/en/user-guide/snowflake-cortex/aisql)
 *   [Snowflake Gen AI Tutorials](https://quickstarts.snowflake.com/)
 *   [Snowflake Community](https://community.snowflake.com/)
-*   [SnowPro Specialty: Gen AI Exam Guide](https://www.snowflake.com/certifications/)
+*   [SnowPro Specialty: Gen AI Exam Guide](https://learn.snowflake.com/en/certifications/snowpro-GenAI/?pdf_name=SnowProGenAIStudyGuide.pdf)
 
 ---
 

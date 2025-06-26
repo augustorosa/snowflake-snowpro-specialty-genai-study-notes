@@ -185,7 +185,7 @@ Validation → Analysis → Output/Storage
 
 ---
 
-**Next Steps:** After completing all domains, review the [Practice Scenarios](../scenarios/01_Building_RAG_Applications.md) and [Quick Reference Materials](../quick_reference/Cortex_Functions.md) to prepare for the exam.
+**Next Steps:** After completing all domains, review the [Practice Scenarios](../scenarios/01_Building_RAG_Applications.md) and [Practice Questions](../exam_prep/Practice_Questions.md) to prepare for the exam.
 
 ***
 [< Domain 3](../3_Snowflake_Gen_AI_Governance/README.md) | **📘 Domain 4: Snowflake Document AI** | [Scenarios >](../scenarios/01_Building_RAG_Applications.md) 

@@ -28,12 +28,12 @@ The answers to the questions are at the bottom of the page.
 ### Domain 1: Snowflake for Gen AI Overview (Questions 1-13)
 
 **Question 1**
-Which of the following is the primary component of Snowflake's AI and ML platform that provides pre-trained LLM functions?
+A Snowflake administrator needs to disable Cortex functions across their entire account for security compliance. Which of the following is the correct approach to disable Cortex?
 
-A) Snowflake ML
-B) Cortex
-C) Snowpark
-D) Data Cloud
+A) Use ALTER ACCOUNT SET ENABLE_CORTEX = FALSE
+B) Use ALTER SESSION SET ENABLE_CORTEX = FALSE
+C) Use ALTER WAREHOUSE SET ENABLE_CORTEX = FALSE
+D) Use ALTER DATABASE SET ENABLE_CORTEX = FALSE
 
 **Question 2**
 When implementing a Retrieval-Augmented Generation (RAG) architecture in Snowflake, which data type is specifically designed to store and operate on vector embeddings?

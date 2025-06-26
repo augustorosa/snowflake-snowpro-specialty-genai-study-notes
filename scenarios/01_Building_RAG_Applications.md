@@ -1,4 +1,4 @@
-[< Domain 4](../4_Snowflake_Document_AI/README.md) | **📘 Scenario 1: Building RAG Applications** | [Quick Reference >](../quick_reference/Cortex_Functions.md)
+[< Domain 4](../4_Snowflake_Document_AI/README.md) | **📘 Scenario 1: Building RAG Applications** | [Home >](../README.md)
 ***
 
 # Scenario 1: Building RAG Applications
@@ -512,4 +512,4 @@ WHERE timestamp >= CURRENT_TIMESTAMP - INTERVAL '1 hour';
 This scenario provides a complete RAG implementation that can be adapted for various use cases and scaled for production environments.
 
 ***
-[< Domain 4](../4_Snowflake_Document_AI/README.md) | **📘 Scenario 1: Building RAG Applications** | [Quick Reference >](../quick_reference/Cortex_Functions.md) 
+[< Domain 4](../4_Snowflake_Document_AI/README.md) | **📘 Scenario 1: Building RAG Applications** | [Home >](../README.md) 

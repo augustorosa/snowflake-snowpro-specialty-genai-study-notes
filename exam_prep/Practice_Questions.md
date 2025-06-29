@@ -3,20 +3,20 @@
 
 # SnowPro Specialty: Gen AI Practice Exam
 
-This practice exam contains 50 questions that mirror the format and difficulty of the actual SnowPro Specialty: Generative AI certification exam. Questions are distributed according to the official domain weightings. **Any questions that do not specify how many selections are needed imply that you only need to choose one(1).** 
+This practice exam contains 52 questions that mirror the format and difficulty of the actual SnowPro Specialty: Generative AI certification exam. Questions are distributed according to the official domain weightings. **Any questions that do not specify how many selections are needed imply that you only need to choose one(1).** 
 
 The answers to the questions are at the bottom of the page.
 
 ## 📊 Question Distribution
-- **Domain 1:** Snowflake for Gen AI Overview (13 questions - 26%)
-- **Domain 2:** Snowflake Gen AI & LLM Functions (20 questions - 40%)
-- **Domain 3:** Snowflake Gen AI Governance (11 questions - 22%)
+- **Domain 1:** Snowflake for Gen AI Overview (13 questions - 25%)
+- **Domain 2:** Snowflake Gen AI & LLM Functions (21 questions - 40%)
+- **Domain 3:** Snowflake Gen AI Governance (12 questions - 23%)
 - **Domain 4:** Snowflake Document AI (6 questions - 12%)
 
 ## 📝 Question Format
-- **Single Answer Questions:** 22 questions (44%)
-- **Multiple Answer Questions:** 28 questions (56%) - Select 2 or 3 correct answers
-- **Total Points:** 78 points (50 single + 28 multi-answer questions)
+- **Single Answer Questions:** 23 questions (44%)
+- **Multiple Answer Questions:** 29 questions (56%) - Select 2 or 3 correct answers
+- **Total Points:** 81 points (23 single + 58 multi-answer questions)
 
 ## ⏱️ Time Limit
 **75 minutes** (1.5 minutes per question average)
@@ -137,7 +137,7 @@ B) Multi-cluster warehouses
 C) Global data governance
 D) Cross-cloud auto-fulfillment
 
-### Domain 2: Snowflake Gen AI & LLM Functions (Questions 14-33)
+### Domain 2: Snowflake Gen AI & LLM Functions (Questions 14-33, 51)
 
 **Question 14**
 Which Cortex function would be most appropriate for generating a response to a customer support query?
@@ -308,7 +308,7 @@ B) The function throws an error
 C) The function automatically switches to a smaller model
 D) The function truncates the input prompt
 
-### Domain 3: Snowflake Gen AI Governance (Questions 34-44)
+### Domain 3: Snowflake Gen AI Governance (Questions 34-44, 52)
 
 **Question 34**
 Which of the following are critical components of AI model governance in Snowflake? (SELECT 3)
@@ -469,6 +469,23 @@ D) Using file size as the primary feature
 E) Relying solely on file extensions
 F) Ignoring all document content
 
+**Question 51**
+What is Snowflake's recommendation for warehouse sizing when executing Cortex AISQL functions and PARSE_DOCUMENT functions?
+
+A) Use X-LARGE or larger warehouses for optimal performance
+B) Use MEDIUM or smaller warehouses as larger warehouses don't improve performance
+C) Warehouse size doesn't affect Cortex function performance
+D) Use multi-cluster warehouses for all Cortex operations
+
+**Question 52**
+A Snowflake administrator needs to grant access to Cortex AI functions while following security best practices. Which approach correctly implements the CORTEX_USER database role? (SELECT 2)
+
+A) Grant SNOWFLAKE.CORTEX_USER directly to individual users
+B) Revoke SNOWFLAKE.CORTEX_USER from PUBLIC role first for security
+C) Create a custom role and grant CORTEX_USER to that role, then assign to users
+D) CORTEX_USER role can be granted directly to users without intermediate roles
+E) Leave CORTEX_USER granted to PUBLIC role for easier access
+
 ---
 
 ## Answer Key and Explanations
@@ -576,6 +593,9 @@ F) Ignoring all document content
 **33. B) The function throws an error**
 *Explanation:* Exceeding token limits typically results in an error, requiring input truncation or chunking.
 
+**51. B) Use MEDIUM or smaller warehouses as larger warehouses don't improve performance**
+*Explanation:* Snowflake recommends using MEDIUM or smaller warehouses for Cortex AISQL and PARSE_DOCUMENT functions because larger warehouses do not increase performance, while warehouse costs continue to apply during execution.
+
 ### Domain 3: Snowflake Gen AI Governance
 
 **34. D) All of the above**
@@ -611,6 +631,9 @@ F) Ignoring all document content
 **44. B) Automated performance metrics tracking**
 *Explanation:* Automated monitoring of performance metrics enables early detection of model drift in production systems.
 
+**52. B) Revoke SNOWFLAKE.CORTEX_USER from PUBLIC role first for security, C) Create a custom role and grant CORTEX_USER to that role, then assign to users**
+*Explanation:* Security best practices require first revoking CORTEX_USER from PUBLIC role to prevent unrestricted access, then creating custom roles to grant CORTEX_USER database role, and finally assigning these custom roles to specific users. The CORTEX_USER database role cannot be granted directly to users.
+
 ### Domain 4: Snowflake Document AI
 
 **45. B) OCR()**
@@ -635,15 +658,15 @@ F) Ignoring all document content
 
 ## 📊 Scoring Guide
 
-**Total Possible Points:** 78 points
-- Single answer questions (22): 1 point each = 22 points
-- Multi-answer questions (28): 2 points each = 56 points
+**Total Possible Points:** 81 points
+- Single answer questions (23): 1 point each = 23 points
+- Multi-answer questions (29): 2 points each = 58 points
 
 **Grade Scale:**
-- **70-78 points (90-100%):** Excellent - Ready for exam
-- **62-69 points (80-89%):** Good - Review weak areas
-- **55-61 points (70-79%):** Fair - Additional study needed
-- **Below 55 points (<70%):** More preparation required
+- **73-81 points (90-100%):** Excellent - Ready for exam
+- **65-72 points (80-89%):** Good - Review weak areas
+- **57-64 points (70-79%):** Fair - Additional study needed
+- **Below 57 points (<70%):** More preparation required
 
 **Multi-Answer Scoring:**
 - Full credit: All correct answers selected, no incorrect answers
